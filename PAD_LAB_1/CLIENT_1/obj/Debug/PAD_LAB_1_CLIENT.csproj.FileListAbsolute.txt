@@ -1,0 +1,7 @@
+D:\User\Документы\University\4 КУРС\PAD\Лабораторные работы\PAD_LAB_1\PAD_LAB_1_CLIENT\PAD_LAB_1_CLIENT\bin\Debug\PAD_LAB_1_CLIENT.exe.config
+D:\User\Документы\University\4 КУРС\PAD\Лабораторные работы\PAD_LAB_1\PAD_LAB_1_CLIENT\PAD_LAB_1_CLIENT\bin\Debug\PAD_LAB_1_CLIENT.exe
+D:\User\Документы\University\4 КУРС\PAD\Лабораторные работы\PAD_LAB_1\PAD_LAB_1_CLIENT\PAD_LAB_1_CLIENT\bin\Debug\PAD_LAB_1_CLIENT.pdb
+D:\User\Документы\University\4 КУРС\PAD\Лабораторные работы\PAD_LAB_1\PAD_LAB_1_CLIENT\PAD_LAB_1_CLIENT\obj\Debug\PAD_LAB_1_CLIENT.csprojAssemblyReference.cache
+D:\User\Документы\University\4 КУРС\PAD\Лабораторные работы\PAD_LAB_1\PAD_LAB_1_CLIENT\PAD_LAB_1_CLIENT\obj\Debug\PAD_LAB_1_CLIENT.csproj.CoreCompileInputs.cache
+D:\User\Документы\University\4 КУРС\PAD\Лабораторные работы\PAD_LAB_1\PAD_LAB_1_CLIENT\PAD_LAB_1_CLIENT\obj\Debug\PAD_LAB_1_CLIENT.exe
+D:\User\Документы\University\4 КУРС\PAD\Лабораторные работы\PAD_LAB_1\PAD_LAB_1_CLIENT\PAD_LAB_1_CLIENT\obj\Debug\PAD_LAB_1_CLIENT.pdb

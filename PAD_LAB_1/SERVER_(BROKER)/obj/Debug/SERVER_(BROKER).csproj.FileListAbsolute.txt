@@ -1,0 +1,14 @@
+D:\User\Документы\University\4 КУРС\PAD\Лабораторные работы\PAD_LAB_1\PAD_LAB_1_CLIENT\SERVER_(BROKER)\bin\Debug\SERVER_(BROKER).exe.config
+D:\User\Документы\University\4 КУРС\PAD\Лабораторные работы\PAD_LAB_1\PAD_LAB_1_CLIENT\SERVER_(BROKER)\bin\Debug\SERVER_(BROKER).exe
+D:\User\Документы\University\4 КУРС\PAD\Лабораторные работы\PAD_LAB_1\PAD_LAB_1_CLIENT\SERVER_(BROKER)\bin\Debug\SERVER_(BROKER).pdb
+D:\User\Документы\University\4 КУРС\PAD\Лабораторные работы\PAD_LAB_1\PAD_LAB_1_CLIENT\SERVER_(BROKER)\obj\Debug\SERVER_(BROKER).csproj.CoreCompileInputs.cache
+D:\User\Документы\University\4 КУРС\PAD\Лабораторные работы\PAD_LAB_1\PAD_LAB_1_CLIENT\SERVER_(BROKER)\obj\Debug\SERVER_(BROKER).exe
+D:\User\Документы\University\4 КУРС\PAD\Лабораторные работы\PAD_LAB_1\PAD_LAB_1_CLIENT\SERVER_(BROKER)\obj\Debug\SERVER_(BROKER).pdb
+D:\User\Документы\University\4 КУРС\PAD\Лабораторные работы\PAD_LAB_1\PAD_LAB_1_CLIENT\SERVER_(BROKER)\obj\Debug\SERVER_(BROKER).csprojAssemblyReference.cache
+D:\User\Документы\University\4 КУРС\PAD\Лабораторные работы\PAD_LAB_1\PAD_LAB_1\SERVER_(BROKER)\bin\Debug\SERVER_(BROKER).exe.config
+D:\User\Документы\University\4 КУРС\PAD\Лабораторные работы\PAD_LAB_1\PAD_LAB_1\SERVER_(BROKER)\bin\Debug\SERVER_(BROKER).exe
+D:\User\Документы\University\4 КУРС\PAD\Лабораторные работы\PAD_LAB_1\PAD_LAB_1\SERVER_(BROKER)\bin\Debug\SERVER_(BROKER).pdb
+D:\User\Документы\University\4 КУРС\PAD\Лабораторные работы\PAD_LAB_1\PAD_LAB_1\SERVER_(BROKER)\obj\Debug\SERVER_(BROKER).csproj.CoreCompileInputs.cache
+D:\User\Документы\University\4 КУРС\PAD\Лабораторные работы\PAD_LAB_1\PAD_LAB_1\SERVER_(BROKER)\obj\Debug\SERVER_(BROKER).exe
+D:\User\Документы\University\4 КУРС\PAD\Лабораторные работы\PAD_LAB_1\PAD_LAB_1\SERVER_(BROKER)\obj\Debug\SERVER_(BROKER).pdb
+D:\User\Документы\University\4 КУРС\PAD\Лабораторные работы\PAD_LAB_1\PAD_LAB_1\SERVER_(BROKER)\obj\Debug\SERVER_(BROKER).csprojAssemblyReference.cache
